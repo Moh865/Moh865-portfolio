@@ -10,7 +10,7 @@ I'm a self taught Data analyst wityh a bckground in public health "now building 
 - Google sheets
 
   ## My Projects
-  -[Sales performance Dashboard] (https://github.com/Moh865/Sales-Performance-Analysis)
+  -[Sales performance Dashboard](https://github.com/Moh865/Sales-Performance-Analysis)
 
   ## Let's Connect!
   [Linkedlin](https://linkedin.com/in/mardiyah-ajetunmobi)
